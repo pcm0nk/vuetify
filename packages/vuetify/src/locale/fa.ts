@@ -3,14 +3,14 @@ export default {
   dataIterator: {
     pageText: '{0} تا {1} از {2}',
     noResultsText: 'نتیجه‌ای یافت نشد',
-    loadingText: 'Loading item...',
+    loadingText: در حال بارگذاری...',
   },
   dataTable: {
     itemsPerPageText: 'ردیف در صفحه:',
     ariaLabel: {
-      sortDescending: ': Sorted descending. Activate to remove sorting.',
-      sortAscending: ': Sorted ascending. Activate to sort descending.',
-      sortNone: ': Not sorted. Activate to sort ascending.',
+      sortDescending: ': مرتب سازی نزولی . برای حذف مرتب سازی کلیک کنید.',
+      sortAscending: ': مرتب سازی صعودی.برای مرتب سازی نزولی کلیک کنید.',
+      sortNone: ': بدون مرتب سازی. برای مرتب سازی صعودی کلیک کنید.',
     },
   },
   dataFooter: {
